@@ -3,3 +3,4 @@ requests
 scikit-learn
 tqdm
 h5py
+tables
