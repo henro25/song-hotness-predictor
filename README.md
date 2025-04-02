@@ -7,4 +7,3 @@ This is a final project for Harvard's CS 1090B: Advanced Topics in Data Science,
    1. `python -m venv venv`
    2. `source venv/bin/activate`
 3. Run `pip install -r requirements.txt` to download required libraries
-
